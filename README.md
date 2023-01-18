@@ -1,2 +1,2 @@
 # git-first-task
-Just read me 
+Just read me and tell me. This is repository.
